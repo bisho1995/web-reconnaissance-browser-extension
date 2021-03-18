@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "permissions": ["contextMenus"],
   "icons": {
-    "16": "reckon.png",
-    "48": "reckon.png",
-    "128": "reckon.png"
+    "16": "reckon16x16.png",
+    "48": "reckon48x48.png",
+    "128": "reckon128x128.png"
   },
   "background": {
     "persistent": false,
