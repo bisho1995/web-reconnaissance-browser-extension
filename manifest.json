@@ -1,6 +1,6 @@
 {
   "name": "Web Reconnaissance",
-  "description": "sample",
+  "description": "Look for a person on Linkedin and Twitter",
   "version": "0.0.1",
   "permissions": ["contextMenus"],
   "icons": {
